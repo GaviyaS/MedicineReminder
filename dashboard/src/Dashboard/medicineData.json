@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Aspirin",
+    "uses": "Relieves pain, reduces fever, and prevents blood clots.",
+    "sideEffects": "Nausea, vomiting, stomach pain, heartburn, and rash."
+  },
+  {
+    "name": "Paracetamol",
+    "uses": "Relieves mild to moderate pain and reduces fever.",
+    "sideEffects": "Rare but can cause serious skin reactions or liver damage."
+  },
+  {
+    "name": "Ibuprofen",
+    "uses": "Relieves pain, reduces fever, and reduces inflammation.",
+    "sideEffects": "Stomach upset, heartburn, nausea, headache, and dizziness."
+  },
+  {
+    "name": "Ciprofloxacin",
+    "uses": "Treats bacterial infections such as urinary tract infections, respiratory infections, and skin infections.",
+    "sideEffects": "Nausea, diarrhea, vomiting, abdominal pain, and rash."
+  },
+  {
+    "name": "Amoxicillin",
+    "uses": "Treats bacterial infections such as ear infections, pneumonia, bronchitis, and urinary tract infections.",
+    "sideEffects": "Nausea, vomiting, diarrhea, and rash."
+  },
+  {
+    "name": "Prednisone",
+    "uses": "Treats conditions such as arthritis, severe allergies, asthma, multiple sclerosis, and skin conditions.",
+    "sideEffects": "Weight gain, high blood pressure, mood changes, and increased risk of infection."
+  },
+  {
+    "name": "Lisinopril",
+    "uses": "Treats high blood pressure, heart failure, and improves survival after a heart attack.",
+    "sideEffects": "Dizziness, headache, cough, and low blood pressure."
+  },
+  {
+    "name": "Atorvastatin",
+    "uses": "Lowers high cholesterol and triglyceride levels in the blood.",
+    "sideEffects": "Muscle pain, weakness, joint pain, and digestive problems."
+  },
+  {
+    "name": "Metformin",
+    "uses": "Treats type 2 diabetes by lowering blood sugar levels.",
+    "sideEffects": "Nausea, vomiting, diarrhea, abdominal pain, and lactic acidosis."
+  },
+  {
+    "name": "Omeprazole",
+    "uses": "Reduces stomach acid production and treats conditions such as heartburn, acid reflux, and ulcers.",
+    "sideEffects": "Headache, nausea, vomiting, diarrhea, and stomach pain."
+  },
+  {
+    "name": "Albuterol",
+    "uses": "Relieves symptoms of asthma and other lung conditions by relaxing muscles in the airways.",
+    "sideEffects": "Shakiness, nervousness, headache, fast heart rate, and dizziness."
+  },
+  {
+    "name": "Sertraline",
+    "uses": "Treats depression, obsessive-compulsive disorder, panic disorder, and social anxiety disorder.",
+    "sideEffects": "Nausea, diarrhea, insomnia, dizziness, and dry mouth."
+  },
+  {
+    "name": "Loratadine",
+    "uses": "Relieves symptoms of allergies such as hay fever, hives, and itching.",
+    "sideEffects": "Headache, dry mouth, fatigue, and stomach pain."
+  },
+  {
+    "name": "Simvastatin",
+    "uses": "Lowers high cholesterol and triglyceride levels in the blood.",
+    "sideEffects": "Muscle pain, weakness, joint pain, and digestive problems."
+  },
+  {
+    "name": "Metoprolol",
+    "uses": "Treats high blood pressure, angina, and heart failure.",
+    "sideEffects": "Dizziness, tiredness, slow heart rate, and low blood pressure."
+  },
+  {
+    "name": "Citalopram",
+    "uses": "Treats depression and anxiety disorders.",
+    "sideEffects": "Nausea, dry mouth, insomnia, fatigue, and increased sweating."
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "uses": "Treats high blood pressure and fluid retention (edema) caused by various conditions.",
+    "sideEffects": "Dizziness, headache, diarrhea, and muscle cramps."
+  },
+  {
+    "name": "Amlodipine",
+    "uses": "Treats high blood pressure and chest pain (angina).",
+    "sideEffects": "Swelling in the ankles or feet, dizziness, headache, and fatigue."
+  },
+  {
+    "name": "Metoprolol",
+    "uses": "Treats high blood pressure, angina, and heart failure.",
+    "sideEffects": "Dizziness, tiredness, slow heart rate, and low blood pressure."
+  },
+  {
+    "name": "Citalopram",
+    "uses": "Treats depression and anxiety disorders.",
+    "sideEffects": "Nausea, dry mouth, insomnia, fatigue, and increased sweating."
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "uses": "Treats high blood pressure and fluid retention (edema) caused by various conditions.",
+    "sideEffects": "Dizziness, headache, diarrhea, and muscle cramps."
+  },
+  {
+    "name": "Amlodipine",
+    "uses": "Treats high blood pressure and chest pain (angina).",
+    "sideEffects": "Swelling in the ankles or feet, dizziness, headache, and fatigue."
+  },
+  {
+    "name": "Metoprolol",
+    "uses": "Treats high blood pressure, angina, and heart failure.",
+    "sideEffects": "Dizziness, tiredness, slow heart rate, and low blood pressure."
+  },
+  {
+    "name": "Citalopram",
+    "uses": "Treats depression and anxiety disorders.",
+    "sideEffects": "Nausea, dry mouth, insomnia, fatigue, and increased sweating."
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "uses": "Treats high blood pressure and fluid retention (edema) caused by various conditions.",
+    "sideEffects": "Dizziness, headache, diarrhea, and muscle cramps."
+  },
+  {
+    "name": "Amlodipine",
+    "uses": "Treats high blood pressure and chest pain (angina).",
+    "sideEffects": "Swelling in the ankles or feet, dizziness, headache, and fatigue."
+  }
+]
